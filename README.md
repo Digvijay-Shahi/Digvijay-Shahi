@@ -2,7 +2,7 @@
 - 👀 I’m interested in WEB-3
 - 🌱 I’m currently learning C++ and Blockchain Development
 - 💞️ I’m looking to collaborate on WEB-3 and DSA
-- 📫 Reach me on @digvijayshahi08@gmail.com
+- 📫 Reach me on @digvijayshahi08@gmail.com 
 
 <!---
 Digvijay-Shahi/Digvijay-Shahi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
