@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Digvijay-Shahi
 - 👀 I’m interested in WEB-3
-- 🌱 I’m currently learning C++ and Blockchain Development
+- 🌱 I’m currently learning Java and Blockchain Development
 - 💞️ I’m looking to collaborate on WEB-3 and DSA
 - 📫 Reach me on @digvijayshahi08@gmail.com 
 
